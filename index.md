@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## thanks for oeasy I finally have my homepage
 
 You can use the [editor on GitHub](https://github.com/alehua/alehua_plus/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
